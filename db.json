@@ -1,0 +1,24 @@
+{
+  "products": [
+    {"id":1,"name":"Western patch-nosed snake","category":"Maroon"},
+    {"id":2,"name":"Pronghorn","category":"Pink"},
+    {"id":3,"name":"Tortoise, desert","category":"Puce"},
+    {"id":4,"name":"Catfish, blue","category":"Crimson"},
+    {"id":5,"name":"Gecko, tokay","category":"Fuscia"},
+    {"id":6,"name":"Capuchin, weeper","category":"Yellow"},
+    {"id":7,"name":"Otter, african clawless","category":"Orange"},
+    {"id":8,"name":"Mallard","category":"Indigo"},
+    {"id":9,"name":"Gonolek, burchell's","category":"Fuscia"},
+    {"id":10,"name":"Opossum, american virginia","category":"Fuscia"},
+    {"id":11,"name":"Saddle-billed stork","category":"Pink"},
+    {"id":12,"name":"Grey mouse lemur","category":"Yellow"},
+    {"id":13,"name":"Arboral spiny rat","category":"Yellow"},
+    {"id":14,"name":"Western bearded dragon","category":"Aquamarine"},
+    {"id":15,"name":"Vulture, king","category":"Fuscia"},
+    {"id":16,"name":"Ring dove","category":"Turquoise"},
+    {"id":17,"name":"African lynx","category":"Violet"},
+    {"id":18,"name":"Stanley bustard","category":"Teal"},
+    {"id":19,"name":"Jackal, silver-backed","category":"Pink"},
+    {"id":20,"name":"Bear, sloth","category":"Fuscia"}
+  ]
+}
